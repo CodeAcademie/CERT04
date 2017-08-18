@@ -31,7 +31,7 @@ Les données qui devront apparaitre dans la BDD sont :
 
 Cette étape sera à valider par le formateur avant de passer à l'étape suivante.
 
-## Seconde partie
+## Seconde étape
 
 Après validation de la première étape et correction des éventuels erreurs relevées par le formateur, vous devez réaliser le **schéma physique des données** en suivant les principes du _modèle relationnel_. Ce document sera à incorporer au dossier initial.
 
