@@ -16,14 +16,15 @@ Le rendu sera à faire sous la forme d'un dossier dans lequel apparaitra :
 Les données qui devront apparaitre dans la BDD sont : 
 
 - Nom du film/série
+- Une image pour l'affiche du film
 - Date de sortie
-- Nom du réalisateur
-- Nom des acteurs principaux
+- Nom du ou des réalisateur
+- Nom du ou des acteurs principaux
 - Genre du film
 - Type (film/série)
 - Description (synopsis)
 - Note
-- Tag 
+- Tag
 - Date de naissance des acteurs
 - Date de naissance des réalisateurs
 - Sexe de l'acteur
@@ -35,4 +36,8 @@ Cette étape sera à valider par le formateur avant de passer à l'étape suivan
 
 Après validation de la première étape et correction des éventuels erreurs relevées par le formateur, vous devez réaliser le **schéma physique des données** en suivant les principes du _modèle relationnel_. Ce document sera à incorporer au dossier initial.
 
+Selon le react, il vous est demandé que : 
 
+- Le schéma entité association couvre les règles de gestion sur les données.
+- Le schéma respecte le formalisme du modèle entité/association.
+- Le schéma physique de la base de données est normalisé.
