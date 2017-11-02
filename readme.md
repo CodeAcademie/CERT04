@@ -12,7 +12,7 @@ La startup "Cineart" souhaite rivaliser les plateformes numériques actuelles te
 Chaque film référencé sur la plateforme affichera l'ensemble des acteurs principaux, le.s réalisateur.s.
 Tout film disposera d'informations propres telles que son nom, son affiche, une date de sortie, un genre.
 
-Il sera possible de noter de 1 à 5 étoiles un film.  Plusieurs notes existeront pour chaque film. 
+Il sera possible de noter de 1 à 5 étoiles un film accompagné d'un avis (champ texte < 256 char).  Plusieurs avis existeront pour chaque film. 
 Il sera possible de définir des "tags" pour chaque film.
 
 Il devra également être possible d'accéder aux informations propres des réalisateurs et/ou des acteurs. 
