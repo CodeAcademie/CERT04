@@ -35,3 +35,5 @@ Selon le REAC, il vous est demandé que :
 - Le schéma entité association couvre les règles de gestion sur les données.
 - Le schéma respecte le formalisme du modèle entité/association.
 - Le schéma physique de la base de données est normalisé.
+
+Ce rendu est à envoyer à l'adresse mail suivante : codeacademie@fondationface.org.
