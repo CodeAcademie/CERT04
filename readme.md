@@ -10,7 +10,7 @@ Cet examen est à faire en deux étapes, et la première sera validée par le fo
 La startup "Cineart" souhaite rivaliser les plateformes numériques actuelles telles que NETFLIX/Plex pour la création d'un media center national dedié au cinema indépendant français. 
 
 Chaque film référencé sur la plateforme affichera l'ensemble des acteurs principaux, le.s réalisateur.s.
-Tout film disposera d'informations propres telles que son nom, son affiche, une date de sortie, un genre.
+Tout film disposera d'informations propres telles que son nom, son affiche, une date de sortie, un genre, une nationalité.
 
 Il sera possible de noter de 1 à 5 étoiles un film.  Plusieurs notes existeront pour chaque film. 
 Il sera possible de définir des "tags" pour chaque film.
